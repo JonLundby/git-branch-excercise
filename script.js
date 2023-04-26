@@ -9,4 +9,9 @@ function startApp() {
 
 function anotherFunction() {
     console.log("just another function...")
+    thirdFunction();
+}
+
+function thirdFunction() {
+    console.log("3rd function executed...")
 }
