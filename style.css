@@ -3,3 +3,11 @@ body {
     margin: 50px;
 }
 
+section {
+    background-color: cadetblue;
+    width: 90vw;
+    height: 100vh;
+    margin: 10px;
+    padding: 20px;
+}
+
